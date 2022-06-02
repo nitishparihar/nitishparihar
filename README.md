@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a self-taught programmer currently focusing on Frontend Development.
+I am a self-taught Frontend Developer.
 
 
 ## Technologies
