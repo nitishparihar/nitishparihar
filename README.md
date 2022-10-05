@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a self-taught Frontend Developer.
+A self-taught Frontend Developer, helping humans live a better life with the help of technology.
 
 
 ## Technologies I Use
